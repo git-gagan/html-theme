@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class SkeletonwebsiteConfig(AppConfig):
+class nutrifyConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'SkeletonWebsite'
+    name = 'nutrify'
